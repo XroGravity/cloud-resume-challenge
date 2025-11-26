@@ -1,2 +1,2 @@
 # cloud-resume-challenge
-Projects from Cloud Resume Challenge (Baseline &amp; Security focused)
+Projects from Cloud Resume Challenge (Multi-Cloud Provider &amp; Security focused)
